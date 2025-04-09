@@ -1,0 +1,82 @@
+Changelog 2.0
+Updated Misdreavus moveset
+Corrected priority on jumpscare
+Corrected Collision
+Corrected Warp from fossil restoration lab
+Corrected several trainers moves
+Readjusted IV's to 31 for all trainers
+Updated the move Thief
+Changed Doduo evolution to 30
+Changed Misty's team
+Adjusted Goldeen's evolution to 28
+Fixed warp to be able to enter the Museum in pewter city
+Redid Squirtle and Wartortle sprite to show new forms
+Added a new sprite for Masquerain
+Added new sprite for Aron Lairon and Aggron
+Changed Weather in Cerulean City to be normal
+Reworked all of Rival fights
+Moved Rival fight May to after Viridian forest
+Reworked Rival May Pokemon
+Lowered all levels in Viridian Forest
+Reworked all trainers in Viridian Forest trainers
+Added trainers to Route 2 North(Above VF)
+Added OLD Man in house of Route 2 North
+
+-----------------------------------------------------------------------------------
+Before Updating to 1.2.1 Please save your game in a Pokemon Center before Updating 
+
+Changelog 1.2.1
+Adjusted Sneasels Stats
+Removed Nevermeltice From Sneasel
+Corrected Faint Attack from Special to Physical
+Corrected Muddy Water to do damage
+Adjusted Muddy Water's Damage
+Adjusted Giga Drains Damage
+@here A few small bug fixes for 1.2.1
+------------------------------------------------------------------------------------
+Before Updating to 1.2. Please save your game in a Pokemon Center before Updating
+Changelog 1.2
+Fixed several collision issues
+Change Rare Candy QTY from 99 -> 15
+Added music to Route 22
+Adjusted wild pokemon levels on the below routes
+Viridian City
+Route 22
+Mt Silver Foothold
+Route 2
+Changed Covet from Spec to Phys
+Fixed Covet to remove the ability to steal items
+Changed Bone Rush's Description to match effect in game
+Added a ledge to make getting back to viridian from pewter 
+Fixed Rhyhorn typing from pure rock
+Updated Rhyhorns Sprite
+Adjusted Nosepass' stats
+Fixed Sudowood's Ability placement 
+Changed Brocks Team removing Kabuto
+Changed Brocks Team Removing Geodude
+Fixed Fossil restoration lab
+Moved Old Amber script from Pewter 
+Added Warp to Brocks Dad's House
+-NPC will be added in V2.0
+Removed Sunny effect on Route 2
+Moved Magikarp salesman to Vermillion
+Changed Magikarp Salesman pokemon to a "Peculiar fish"
+Adjusted Metapods evolution level
+Adjusted Kakunas Evolution level
+Removed Lotad from Route 21
+Removed Ekans from Pallet Town
+Removed Charmander from Viridian City
+Added Weather to Brocks Gym
+Added Pokemon to Trainers in Brocks gym
+Updated Trainers in Viridian Forest for added difficulty
+Updated Trainers for Route 3 for added Difficulty
+Removed Oran Berries from Pewter Mart
+Removed Oran Berries from Viridan City
+Removed Berry usage during battle
+Fixed Hiker Marcos pokemon levels
+Corrected Mt. Moon Bottom floor encounters
+Adjusted Oran and Sitrus Berry Price
+Adjusted route 4 encounter table to be correct
+Fixed Misty's gym to where you can no longer bypass trainers
+Corrected Vision on gym trainers in Misty's gym
+Changed Misty's Gym Battle for improved Difficulty
