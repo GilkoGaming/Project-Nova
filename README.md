@@ -30,3 +30,6 @@ https://docs.google.com/spreadsheets/d/1yQl7OTgXG_0PuEx03zhT8jl3lddkuJca-X5RN7Mz
 
 Encounter Locations
 https://docs.google.com/spreadsheets/d/19w3GrMWQdx2cRHrtjk9HKOZXm8vwXoKV/edit?usp=sharing&ouid=103239254762979730504&rtpof=true&sd=true 
+
+
+To download the Patch Please click on releases on the right hand side
