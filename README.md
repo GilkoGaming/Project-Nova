@@ -9,6 +9,7 @@ To patch the game file you must have a copy of 1636 - Pokemon Fire Red (U)(Squir
 https://www.marcrobledo.com/RomPatcher.js/
 
 QOL
+----------------------------------------------------------------------
 ●  All Pokemon can be obtained (in final version) Up to generation 3
 ●  Gyms have been reworked along with trainers for more difficulty
 ● Move Reminder/Deleter in every Pokemon Center
