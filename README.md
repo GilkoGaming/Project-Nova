@@ -11,15 +11,24 @@ https://www.marcrobledo.com/RomPatcher.js/
 QOL
 ----------------------------------------------------------------------
 ●  All Pokemon can be obtained (in final version) Up to generation 3
+
 ●  Gyms have been reworked along with trainers for more difficulty
 ● Move Reminder/Deleter in every Pokemon Center
+
 ● Rare Candies in all Pokemarts
+
 ●  Bag item restriction
+
 ●  Phys/Spec split is in the game
+
 ●  Fairy typing is in the game
+
 ●  Delta Species are in the game as well
+
 ● New areas to be discovered
+
 ●  Additional Rival fights have been added
+
 ● Beta 1.21 goes up to Rock Tunnel
 
 
