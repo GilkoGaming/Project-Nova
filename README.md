@@ -47,3 +47,22 @@ https://docs.google.com/spreadsheets/d/19w3GrMWQdx2cRHrtjk9HKOZXm8vwXoKV/edit?us
 
 
 To download the Patch Please click on releases on the right hand side
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Known issues Please report any to https://discord.com/channels/632765797265309696/1336297904268251146
+
+● Bike voucher doesn't give a bike
+
+● Smeargle doesn't Baton Pass
+
+● Jumpscare has the wrong Priority
+
+● Fossil lab warp is broken
+
+● Theif steals items 
+
+● Museum in pewter has a broken warp
+
+● Crunch lowers SpDef instead of Def
+
