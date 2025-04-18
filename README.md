@@ -66,3 +66,7 @@ Known issues Please report any to https://discord.com/channels/63276579726530969
 
 ● Crunch lowers SpDef instead of Def
 
+● Altarias typing is wrong as it should be Dragon/Fairy not Dragon/Normal
+
+● SSanne tile warp on second floor is set incorrectly. Going Left is the solution
+
