@@ -13,6 +13,9 @@ QOL
 ●  All Pokemon can be obtained (in final version) Up to generation 3
 
 ●  Gyms have been reworked along with trainers for more difficulty
+
+● Pocket PC
+
 ● Move Reminder/Deleter in every Pokemon Center
 
 ● Rare Candies in all Pokemarts
@@ -23,13 +26,13 @@ QOL
 
 ●  Fairy typing is in the game
 
-●  Delta Species are in the game as well
+●  Nova Species are in the game as well
 
 ● New areas to be discovered
 
-●  Additional Rival fights have been added
+● Additional Rival fights have been added
 
-● Beta 1.21 goes up to Rock Tunnel
+● Beta 2.0 goes up to getting the 5th gym badge
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
