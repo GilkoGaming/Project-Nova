@@ -45,6 +45,9 @@ https://docs.google.com/spreadsheets/d/1yQl7OTgXG_0PuEx03zhT8jl3lddkuJca-X5RN7Mz
 Encounter Locations
 https://docs.google.com/spreadsheets/d/19w3GrMWQdx2cRHrtjk9HKOZXm8vwXoKV/edit?usp=sharing&ouid=103239254762979730504&rtpof=true&sd=true 
 
+Item Locations
+https://docs.google.com/spreadsheets/d/1-RSu3MV2xwcpQafBcHdKM2Y6zIbk_VJSIFKoRpwxyCc/edit?usp=sharing
+
 
 To download the Patch Please click on releases on the right hand side
 
@@ -52,21 +55,44 @@ To download the Patch Please click on releases on the right hand side
 ------------------------------------------------------------------------------------------------------------------------------------
 Known issues Please report any to https://discord.com/channels/632765797265309696/1336297904268251146
 
-● Bike voucher doesn't give a bike
+Project Nova 2.0 Change log
+------------------------------------------------------------------------------------------------------------------------------------
+Fixed several Collisions and warps
+Reworked trainers to have 31 IV's and custom natures
+New Sprites for Nova Species
+New Story instead of it being vanilla
+Several new characters introduced
+New Rival fights
+Reworked all Wild Pokemon
+Reworked every map in Kanto
+Bike Voucher has been replaced with just a Bike
+Fixed several moves that had the wrong effect such as Crunch
+Reworked several moves
+Added 50 new moves
+Removed the Help menu
+Fixed Altarias Typing
+HM's can be taught over
+Player starts with running shoes
+Fishing Guru is now in Cerulean City instead of the Bike Shop
+Set mode is now enforced
+expall is now added
+Fixed national dex from not showing pokemon correctly
+Added a new item called Pocket PC that can be obtained
+Added a new item called Charge Token. This is ued for the Pocket PC
+Added a new item called Nova DNA Take this to Alba for a reward
+Added a new item called Choice Specs
+Added a new item called Choice Scarf
+Added members to Emerald City
+Adjusted shiny odds to be 1/1024
 
-● Smeargle doesn't Baton Pass
-
-● Jumpscare has the wrong Priority
-
-● Fossil lab warp is broken
-
-● Theif steals items 
-
-● Museum in pewter has a broken warp
-
-● Crunch lowers SpDef instead of Def
-
-● Altarias typing is wrong as it should be Dragon/Fairy not Dragon/Normal
-
-● SSanne tile warp on second floor is set incorrectly. Going Left is the solution
-
+Created the following new areas
+Pewter Mines
+Mt. Moon Overpass
+Celadon Sewers
+Emerald City
+Azure City
+Grotto
+Mystical Forest
+Paradise Park
+Safari Zone
+FCG Islands
