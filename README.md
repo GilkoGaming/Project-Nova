@@ -58,15 +58,4 @@ To download the Patch Please click on releases on the right hand side
 ------------------------------------------------------------------------------------------------------------------------------------
 Known issues Please report any to https://discord.com/channels/632765797265309696/1336297904268251146
 
-Project Nova 2.0.2 Change log
-------------------------------------------------------------------------------------------------------------------------------------
-Corrected MT. Silver map
-Corrected map names
-Fixed Torchics moveset as singe was after Peck
-Fixed rival walkpath in oaks lab
-Fixed a softlocke in pewter by the NPC taking you to the museum
-Opening town map no longer crashes game
-Reworked VIridian Forest entirely
-Adjusted Alba's text to no longer run off the dialogue box in viridian forest
-Reworked Ice Shards Animation
-reworked Sky attack animation
+Current Version 2.1.0
