@@ -58,4 +58,4 @@ To download the Patch Please click on releases on the right hand side
 ------------------------------------------------------------------------------------------------------------------------------------
 Known issues Please report any to https://discord.com/channels/632765797265309696/1336297904268251146
 
-Current Version 2.1.4
+Current Version 2.2.0
