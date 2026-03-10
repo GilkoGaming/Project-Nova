@@ -56,6 +56,6 @@ To download the Patch Please click on releases on the right hand side
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
-Known issues Please report any to https://discord.com/channels/632765797265309696/1336297904268251146
+Known issues Please report any to https://discord.gg/z2XphGp6FD
 
-Current Version 2.3.0
+Current Version 2.3.1
