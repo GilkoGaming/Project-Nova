@@ -58,4 +58,4 @@ To download the Patch Please click on releases on the right hand side
 ------------------------------------------------------------------------------------------------------------------------------------
 Known issues Please report any to https://discord.gg/z2XphGp6FD
 
-Current Version 2.3.4
+Current Version 2.3.5
